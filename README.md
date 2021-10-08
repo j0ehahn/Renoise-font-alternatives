@@ -20,4 +20,4 @@ This may have been when .ttf fonts stared being supported as pattern fonts? To s
 If you want to thank me or get some more expeditious support with a custom font, feel free to support me on bandcamp :]
 https://prot.audio
 
- ![renoise-font-collage1](https://user-images.githubusercontent.com/5577678/136535809-1ea7e65c-c682-4210-b46b-1d3919ac949a.png)
+![renoise-font-collage1](https://user-images.githubusercontent.com/5577678/136536077-3e77c8a7-83e2-48b6-98e0-f717ebb3a492.png)
